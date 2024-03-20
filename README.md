@@ -11,7 +11,7 @@ Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / MongoDB AND MORE
 - 📫 How to reach me: rimonhossen333@gmail.com 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/md-rimon-hossain/md-rimon-hossain/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rimon-hossain)  
+[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw3XDIrNZNdNwjEomgmmHrgZ&ust=1711018203798000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDc8dTVgoUDFQAAAAAdAAAAABAE' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rimon-hossain)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rimon-hossain)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-rimon-hossain&show_icons=true&count_private=true)  
 
