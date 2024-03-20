@@ -10,6 +10,8 @@ Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / MongoDB AND MORE
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: rimonhossen333@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-rimon-hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rimon-hossain/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rimon-hossain)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-rimon-hossain&show_icons=true&count_private=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-rimon-hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rimon-hossain/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rimon-hossain)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-rimon-hossain&show_icons=true&count_private=true)  
+
 
