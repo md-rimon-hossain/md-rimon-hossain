@@ -10,6 +10,6 @@ Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / MongoDB AND MORE
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: rimonhossen333@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rimon-hossain)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-rimon-hossain&show_icons=true&count_private=true)  
+
 
 
