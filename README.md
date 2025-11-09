@@ -56,5 +56,5 @@ I can solve a **Rubik’s Cube in under a minute!** 🧩
 ---
 
 ### 🏆 GitHub Stats
-![Rimon's GitHub Stats](https://github-readme-stats.vercel.app/api?md-rimon-hossain=topten3610&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?md-rimon-hossain=topten3610&layout=compact&theme=radical)
+![Rimon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-rimon-hossain&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rimon-hossain&layout=compact&theme=radical)
